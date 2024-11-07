@@ -13,3 +13,5 @@ resource "alicloud_instance" "web" {
   system_disk_category = "cloud_efficiency"
   instance_charge_type = "PostPaid"
 }
+
+
